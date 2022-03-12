@@ -1,2 +1,4 @@
 hi this is ajay
 i am teaching bugga
+now i have tried pull command
+
